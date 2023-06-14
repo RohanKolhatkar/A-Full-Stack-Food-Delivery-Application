@@ -56,7 +56,7 @@ You may also see any lint errors in the console.
 1. Bcrypt.js:
 
 Github repository: https://github.com/dcodeIO/bcrypt.js  
-NPM package: https://www.npmjs.com/package/bcryptjs
+NPM package: https://www.npmjs.com/package/bcryptjs  
 Documentation: https://github.com/dcodeIO/bcrypt.js#readme
 
 2. Bootstrap:
