@@ -52,18 +52,15 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 ## Documentations
-
 1. Bcrypt.js:
 
 Github repository: https://github.com/dcodeIO/bcrypt.js  
 NPM package: https://www.npmjs.com/package/bcryptjs  
 Documentation: https://github.com/dcodeIO/bcrypt.js#readme
-
 2. Bootstrap:
 
 Official website: https://getbootstrap.com/  
 Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
-
 3. MongoDB:
 
 Official website: https://www.mongodb.com/  
