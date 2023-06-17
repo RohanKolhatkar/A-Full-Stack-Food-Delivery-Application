@@ -52,34 +52,37 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 ## Documentations
+
 1. Bcrypt.js:
 
-Github repository: https://github.com/dcodeIO/bcrypt.js  
-NPM package: https://www.npmjs.com/package/bcryptjs  
-Documentation: https://github.com/dcodeIO/bcrypt.js#readme
+  Github repository: https://github.com/dcodeIO/bcrypt.js  
+  NPM package: https://www.npmjs.com/package/bcryptjs  
+  Documentation: https://github.com/dcodeIO/bcrypt.js#readme
+
 2. Bootstrap:
 
-Official website: https://getbootstrap.com/  
-Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+  Official website: https://getbootstrap.com/  
+  Documentation: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+
 3. MongoDB:
 
-Official website: https://www.mongodb.com/  
-Documentation: https://docs.mongodb.com/manual/
+  Official website: https://www.mongodb.com/  
+  Documentation: https://docs.mongodb.com/manual/
 
 4. Node.js:
 
-Official website: https://nodejs.org/  
-Documentation: https://nodejs.org/en/docs/
+  Official website: https://nodejs.org/  
+  Documentation: https://nodejs.org/en/docs/
 
 5. Express.js:
 
-Official website: https://expressjs.com/  
-Documentation: https://expressjs.com/en/4x/api.html
+  Official website: https://expressjs.com/  
+  Documentation: https://expressjs.com/en/4x/api.html
 
 6. React:
 
-Official website: https://reactjs.org/  
-Documentation: https://reactjs.org/docs/
+  Official website: https://reactjs.org/  
+  Documentation: https://reactjs.org/docs/
 ## Support
 
 For support, email rohankolhatkar930@gmail.com.
