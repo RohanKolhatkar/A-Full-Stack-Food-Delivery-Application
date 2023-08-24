@@ -13,9 +13,8 @@ A Full-Stack food delivery application made using the MERN stack. It has the fea
 
 
 ## Demo
-You can access this using this link:
+You can access its video demo using this link: https://youtu.be/2ELCqkGa9AA
 
-need to paste here the link..
 
 
 ## Tech Stack.
